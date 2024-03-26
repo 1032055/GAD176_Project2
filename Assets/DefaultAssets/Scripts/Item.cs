@@ -9,6 +9,7 @@ public class Item : ScriptableObject
     public string itemName;
     public Sprite itemImage;
     public float modifier;
+    public int price;
 
     // Figuring out how to do the UI thing i want 
     //[SerializeField] Modifiables mods = new Modifiables();
