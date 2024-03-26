@@ -77,6 +77,8 @@ public class Shop : MonoBehaviour
                 //set the name and price (icon to be added) on the button
                 thisButtonScript.itemName.text = thisItem.itemName;
                 thisButtonScript.price.text = thisItem.price.ToString();
+
+                thisButtonScript.itemIcon.sprite = thisItem.itemImage;
             }
         }
         else

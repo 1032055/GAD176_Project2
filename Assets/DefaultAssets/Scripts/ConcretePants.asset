@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ConcretePants
   m_EditorClassIdentifier: 
   itemName: ConcretePants
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: a1e7198a8f02d554bba1092f198cbf6a, type: 3}
   modifier: 0
   price: 420
   baens: 
